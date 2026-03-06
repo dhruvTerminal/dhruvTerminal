@@ -1,17 +1,18 @@
 ## Hi there 👋
 
-I'm **Dhruv**, a Python-focused developer with a growing interest in **data science**, **backend development**, and practical problem-solving. I enjoy learning through hands-on projects and using each project as a way to strengthen both my technical skills and real-world understanding. I’m also a Linux enthusiast who likes working in developer-focused environments and exploring tools that improve workflow and productivity.
+I'm **Dhruv Aggarwal**, a Python-focused developer interested in **data science**, **backend development**, and practical problem-solving. I enjoy building hands-on projects that help me improve my technical foundation and apply what I learn to real-world use cases. I also work comfortably in Linux-based environments and like exploring tools and workflows that improve development productivity.
 
 ### 🚀 What I’m currently working on
-I’m currently focused on sharpening my skills in **Python** and building a stronger foundation in **data science**. Alongside that, I’m working on practical projects with **Flask** and **FastAPI** to understand backend development, APIs, and application logic more deeply. My main approach is simple: learn concepts, apply them in projects, and improve through consistent building.
+Right now, I’m focused on strengthening my skills in **Python** and building a solid base in **data science**. I’m also developing practical projects with **Flask** and **FastAPI** to improve my understanding of backend systems, APIs, and application logic. My goal is to keep learning through consistent project-based work.
 
-### 🛠️ Tools I use
+### 🛠️ Tools & Technologies
 - **Programming:** Python, HTML, CSS, JavaScript  
 - **Frameworks:** Flask, FastAPI  
 - **Data Science:** pandas, NumPy, scikit-learn, spaCy  
-- **Tools:** Git, GitHub, Linux, VS Code  
+- **Developer Tools:** Git, GitHub, VS Code, Cursor, PyCharm, Conda, Anaconda Navigator  
+- **Platforms:** Arch Linux (Jakoolit environment), Zorin OS  
 
 ### 📫 How to reach me
 - **GitHub:** [github.com/dhruvTerminal](https://github.com/dhruvTerminal)  
 - **Email:** dhruvaggarwal2015166@gmail.com  
-- **LinkedIn:** (https://www.linkedin.com/in/dhruv-aggarwal-227a77311/)  
+- **LinkedIn:** [dhruv-aggarwal-227a77311](https://www.linkedin.com/in/dhruv-aggarwal-227a77311/)  

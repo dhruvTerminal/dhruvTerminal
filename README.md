@@ -16,4 +16,3 @@ Right now, I’m focused on strengthening my skills in **Python** and building a
 - **GitHub:** [github.com/dhruvTerminal](https://github.com/dhruvTerminal)  
 - **Email:** dhruvaggarwal2015166@gmail.com  
 - **LinkedIn:** [dhruv-aggarwal-227a77311](https://www.linkedin.com/in/dhruv-aggarwal-227a77311/)
-- 
